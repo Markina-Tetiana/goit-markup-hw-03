@@ -288,9 +288,12 @@ body {
 .footer-logo {
   display: inline-block;
   margin-right: 0;
+  margin-bottom: 16px;
 }
 .page-footer {
   background-color: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .footer-text {
   font-size: 16px;
