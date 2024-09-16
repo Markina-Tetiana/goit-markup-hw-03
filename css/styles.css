@@ -52,8 +52,8 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-top: 24px;
-  margin-bottom: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
   margin-right: 76px;
 }
 .header-logo-part {
@@ -277,8 +277,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding-left: 16px;
-  padding-bottom: 32px;
 }
 /*================ /PORTFOLIO SECTION =================*/
 /*=================== FOOTER STYLES ==================*/
